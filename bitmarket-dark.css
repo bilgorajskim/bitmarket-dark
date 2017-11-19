@@ -38,6 +38,9 @@ header {
 .navbar-inner {
     background: #222;
 }
+.top-bar-market-rate {
+    background: #333;
+}
 .navbar {
     border-color: rgb(65, 187, 25) !important;
 }
